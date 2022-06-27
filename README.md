@@ -19,3 +19,17 @@ This toolkit is a collection of resources and software packages with the aim of 
 - Email: tjelton@protonmail.com
 - Linkedin: https://www.linkedin.com/in/thomas-elton-a86aaa215/
 - Twitter: https://twitter.com/TElton_AU
+
+# Education
+
+🇦🇺 The King's School | Prepatory and Senior School | 2006 - 2019
+
+🇦🇺 University of Sydney | Bachelor of Science and Bachelor of Advanced Studies (Computer Science, Data Science) | 2020 -
+
+🇺🇸 University of Pennsylvania | Exchange Program | 2022 - 2023 (Academic Year)
+
+# Research
+
+## Conferences
+
+Moller, J., Wilkinson, S., Elton, T., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Sydney: The University of Sydney.
