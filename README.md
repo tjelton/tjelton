@@ -32,4 +32,4 @@ This toolkit is a collection of resources and software packages with the aim of 
 
 ## Conferences
 
-Moller, J., Wilkinson, S., Elton, T., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.
+Moller, J., Wilkinson, S., Elton, T. J., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.
