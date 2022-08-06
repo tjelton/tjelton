@@ -30,6 +30,10 @@ This toolkit is a collection of resources and software packages with the aim of 
 
 # Research
 
-## Conferences
+## Conferences and Symposiums
 
 Moller, J., Wilkinson, S., Elton, T. J., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.
+
+Chetcuti, A., Elton, T. J. (2022) [Sharing experience between an early casual teaching fellow and an experienced casual teaching fellow – Thomas James Elton (Mathematics), Anthony Chetcuti (Chemistry)](https://github.com/tjelton/tjelton/blob/main/Research/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
+
+Chetcuti, A., Elton, T. J., George-Williams, S., Harianto, J., Johnston, H. (2022) [Panel Discussion: Unearthing the collective wisdom of our casual teaching staff](https://github.com/tjelton/tjelton/blob/main/Research/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
