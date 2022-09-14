@@ -12,8 +12,9 @@
 Part of this is a love for creating and designing, and making thorough software solutions which are well suited for their interdisciplinary purpose.
 
 🌱 I’m currently working as a casual academic with the School of Chemistry (at the University of Sydney) where I am desingning the 'ChemEd VR Toolkit'.
-This toolkit is a collection of resources and software packages with the aim of aiding the development of VR applications specifically for Chemistry Education purposes 
-(for example, making a VR chemistry lab, or creating a 3D space where students can visualise 3D molecules).
+This toolkit is a collection of resources and software packages with the aim of aiding the development of VR applications specifically for Chemistry Education purposes (for example, making a VR chemistry lab, or creating a 3D space where students can visualise 3D molecules).
+
+💻 Feel free to check out my personal website and blog here: https://tjelton.com/
 
 📫 How to reach me:
 - Email: tjelton@protonmail.com
@@ -32,8 +33,8 @@ This toolkit is a collection of resources and software packages with the aim of 
 
 ## Conferences and Symposiums
 
-Moller, J., Wilkinson, S., Elton, T. J., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.
-
 Chetcuti, A., Elton, T. J. (2022) [Sharing experience between an early casual teaching fellow and an experienced casual teaching fellow – Thomas James Elton (Mathematics), Anthony Chetcuti (Chemistry)](https://github.com/tjelton/tjelton/blob/main/Research/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
 
 Chetcuti, A., Elton, T. J., George-Williams, S., Harianto, J., Johnston, H. (2022) [Panel Discussion: Unearthing the collective wisdom of our casual teaching staff](https://github.com/tjelton/tjelton/blob/main/Research/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
+
+Moller, J., Wilkinson, S., Elton, T. J., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.
