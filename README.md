@@ -19,7 +19,7 @@ This toolkit is a collection of resources and software packages with the aim of 
 📫 How to reach me:
 - Email: tjelton@protonmail.com
 - Linkedin: https://www.linkedin.com/in/thomas-elton-a86aaa215/
-- Twitter: https://twitter.com/TElton_AU
+- Twitter: https://twitter.com/TJElton_AU
 
 # Education
 
