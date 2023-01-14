@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/tjelton/tjelton/blob/main/assets/Thomas_photo.jpeg" width="300"/>
-</div>
-
 # Me, Myeslf, and I
 
 👋 Hi there! My name is Thomas Elton (@tjelton) and welcome to my GitHub account!
